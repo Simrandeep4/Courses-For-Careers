@@ -1,1 +1,4 @@
-google-chrome-stable
+google-chrome-stable 
+libxss1 
+libappindicator1 
+fonts-liberation 
